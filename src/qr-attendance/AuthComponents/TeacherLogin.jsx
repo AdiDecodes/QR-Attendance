@@ -48,7 +48,7 @@ export default function Signup() {
 					className='style-button pl-0'
 					style={{ textAlign: 'start' }}
 				/>
-				<div className='d-flex justify-content-center'>
+				<div className='mt-4 d-flex justify-content-center'>
 					<a
 						className='href-style m-0 pl-2'
 						href='/student-login'
